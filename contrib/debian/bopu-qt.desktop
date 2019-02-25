@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bopu
+Comment=Bopu P2P Cryptocurrency
+Comment[fr]=Bopu, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bopu, eşten eşe kriptografik sanal para birimi
+Exec=bopu-qt %u
+Terminal=false
+Type=Application
+Icon=bopu128
+MimeType=x-scheme-handler/bopu;
+Categories=Office;Finance;

@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/bopu_bg.qm</file>
+        <file alias="de">locale/bopu_de.qm</file>
+        <file alias="en">locale/bopu_en.qm</file>
+        <file alias="es">locale/bopu_es.qm</file>
+        <file alias="fi">locale/bopu_fi.qm</file>
+        <file alias="fr">locale/bopu_fr.qm</file>
+        <file alias="it">locale/bopu_it.qm</file>
+        <file alias="ja">locale/bopu_ja.qm</file>
+        <file alias="pl">locale/bopu_pl.qm</file>
+        <file alias="pt">locale/bopu_pt.qm</file>
+        <file alias="ru">locale/bopu_ru.qm</file>
+        <file alias="sk">locale/bopu_sk.qm</file>
+        <file alias="sv">locale/bopu_sv.qm</file>
+        <file alias="vi">locale/bopu_vi.qm</file>
+        <file alias="zh_CN">locale/bopu_zh_CN.qm</file>
+        <file alias="zh_TW">locale/bopu_zh_TW.qm</file>
+    </qresource>
+</RCC>
